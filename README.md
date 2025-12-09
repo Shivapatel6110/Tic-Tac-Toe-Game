@@ -27,6 +27,6 @@ This project demonstrates core web development skills, including DOM manipulatio
 ---
 
 ## 📂 Project Structure
-index.html # Game UI
-style.css # Styling
-script.js # Game logic
+index.html # Game UI,
+style.css # Styling,
+script.js # Game logic.
